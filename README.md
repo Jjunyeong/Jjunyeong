@@ -1,7 +1,7 @@
 ## Hi there 👋
 ❤️🧡💛
 
-![Uploading 스크린샷 2024-10-06 오후 10.31.22.png…]()
+[Uploading 스크린샷 2024-10-06 오후 10.31.22.png…]()
 
 --
 **Jjunyeong/Jjunyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
